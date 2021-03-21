@@ -1,2 +1,2 @@
-# first-repo
-my first repo
+# Problem Solving
+practice problem solving
